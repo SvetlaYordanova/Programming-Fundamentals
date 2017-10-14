@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate and Sum", "Rotate and Sum\Rotate and Sum.csproj", "{A03A607D-9AFB-40CB-B96E-A1C3C4F69179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtori var", "vtori var\vtori var.csproj", "{557380E6-6666-48FD-935C-B5BD04572795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03A607D-9AFB-40CB-B96E-A1C3C4F69179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03A607D-9AFB-40CB-B96E-A1C3C4F69179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03A607D-9AFB-40CB-B96E-A1C3C4F69179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03A607D-9AFB-40CB-B96E-A1C3C4F69179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557380E6-6666-48FD-935C-B5BD04572795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557380E6-6666-48FD-935C-B5BD04572795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557380E6-6666-48FD-935C-B5BD04572795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557380E6-6666-48FD-935C-B5BD04572795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43EC61BE-3002-4FCE-896D-B14AF51F68B9}
+	EndGlobalSection
+EndGlobal

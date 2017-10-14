@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Change List", "Change List\Change List.csproj", "{F38344DE-2E63-4AAC-8D1A-65EFC467B4AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtori var", "vtori var\vtori var.csproj", "{8C0FE3B8-F4F0-48BE-8E6A-EEEE8C931171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38344DE-2E63-4AAC-8D1A-65EFC467B4AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38344DE-2E63-4AAC-8D1A-65EFC467B4AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38344DE-2E63-4AAC-8D1A-65EFC467B4AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38344DE-2E63-4AAC-8D1A-65EFC467B4AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0FE3B8-F4F0-48BE-8E6A-EEEE8C931171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0FE3B8-F4F0-48BE-8E6A-EEEE8C931171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0FE3B8-F4F0-48BE-8E6A-EEEE8C931171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0FE3B8-F4F0-48BE-8E6A-EEEE8C931171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E276DE-A68D-4C4B-9C0B-1D5434484E18}
+	EndGlobalSection
+EndGlobal

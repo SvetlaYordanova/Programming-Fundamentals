@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic Letter", "Magic Letter\Magic Letter.csproj", "{ACA16270-2E3F-4046-8BBA-643C0F8A84CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACA16270-2E3F-4046-8BBA-643C0F8A84CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA16270-2E3F-4046-8BBA-643C0F8A84CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA16270-2E3F-4046-8BBA-643C0F8A84CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA16270-2E3F-4046-8BBA-643C0F8A84CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA678F20-D428-464C-A478-73DBA11D7D02}
+	EndGlobalSection
+EndGlobal

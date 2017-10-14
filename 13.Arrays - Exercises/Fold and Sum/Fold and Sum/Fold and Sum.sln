@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fold and Sum", "Fold and Sum\Fold and Sum.csproj", "{9216820B-E11D-49E8-8844-C326A8E1680E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtori var", "vtori var\vtori var.csproj", "{E3FB2744-24D4-4EAD-9D7C-948F04B66A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9216820B-E11D-49E8-8844-C326A8E1680E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9216820B-E11D-49E8-8844-C326A8E1680E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9216820B-E11D-49E8-8844-C326A8E1680E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9216820B-E11D-49E8-8844-C326A8E1680E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3FB2744-24D4-4EAD-9D7C-948F04B66A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FB2744-24D4-4EAD-9D7C-948F04B66A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FB2744-24D4-4EAD-9D7C-948F04B66A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FB2744-24D4-4EAD-9D7C-948F04B66A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDA9887C-A7C4-449B-92D2-3A251D2FBD19}
+	EndGlobalSection
+EndGlobal

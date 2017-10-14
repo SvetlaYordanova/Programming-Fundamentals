@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible by 3", "Divisible by 3\Divisible by 3.csproj", "{CE91A69A-343C-4934-A4D2-A9D4CF617238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible by 3 (2 variant)", "Divisible by 3 (2 variant)\Divisible by 3 (2 variant).csproj", "{1E67435D-5C6F-4265-901B-D8FF708AB4A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE91A69A-343C-4934-A4D2-A9D4CF617238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE91A69A-343C-4934-A4D2-A9D4CF617238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE91A69A-343C-4934-A4D2-A9D4CF617238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE91A69A-343C-4934-A4D2-A9D4CF617238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E67435D-5C6F-4265-901B-D8FF708AB4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E67435D-5C6F-4265-901B-D8FF708AB4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E67435D-5C6F-4265-901B-D8FF708AB4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E67435D-5C6F-4265-901B-D8FF708AB4A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419074FC-BE2B-455E-B837-11EAC43F6C12}
+	EndGlobalSection
+EndGlobal
