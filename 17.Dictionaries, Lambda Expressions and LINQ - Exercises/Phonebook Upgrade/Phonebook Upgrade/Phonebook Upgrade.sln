@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phonebook Upgrade", "Phonebook Upgrade\Phonebook Upgrade.csproj", "{D60F571A-279D-4F04-84E5-F507C99FD09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2var", "2var\2var.csproj", "{36221E92-7EBE-43E8-A538-50353BA884D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60F571A-279D-4F04-84E5-F507C99FD09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F571A-279D-4F04-84E5-F507C99FD09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F571A-279D-4F04-84E5-F507C99FD09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F571A-279D-4F04-84E5-F507C99FD09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36221E92-7EBE-43E8-A538-50353BA884D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36221E92-7EBE-43E8-A538-50353BA884D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36221E92-7EBE-43E8-A538-50353BA884D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36221E92-7EBE-43E8-A538-50353BA884D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3107C7F3-D2D5-439D-B9E9-C0B4BD914B67}
+	EndGlobalSection
+EndGlobal

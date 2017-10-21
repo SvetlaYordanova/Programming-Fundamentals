@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon Army", "Dragon Army\Dragon Army.csproj", "{DB1CFEAB-3CF7-4E82-9831-4E3EC10C5187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 var", "2 var\2 var.csproj", "{43C18842-402F-4411-9C14-8711636AF796}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1CFEAB-3CF7-4E82-9831-4E3EC10C5187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1CFEAB-3CF7-4E82-9831-4E3EC10C5187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1CFEAB-3CF7-4E82-9831-4E3EC10C5187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1CFEAB-3CF7-4E82-9831-4E3EC10C5187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C18842-402F-4411-9C14-8711636AF796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C18842-402F-4411-9C14-8711636AF796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C18842-402F-4411-9C14-8711636AF796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C18842-402F-4411-9C14-8711636AF796}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8AC8E0-37E1-4AB0-8445-4667995F7A51}
+	EndGlobalSection
+EndGlobal
