@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rounding Numbers Away from Zero", "Rounding Numbers Away from Zero\Rounding Numbers Away from Zero.csproj", "{70ED33B8-07B8-491A-9136-133DBE23A849}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vtori vat", "vtori vat\vtori vat.csproj", "{1285C57A-3A2F-4A19-8E1E-8FA646702098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70ED33B8-07B8-491A-9136-133DBE23A849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70ED33B8-07B8-491A-9136-133DBE23A849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70ED33B8-07B8-491A-9136-133DBE23A849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70ED33B8-07B8-491A-9136-133DBE23A849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1285C57A-3A2F-4A19-8E1E-8FA646702098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1285C57A-3A2F-4A19-8E1E-8FA646702098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1285C57A-3A2F-4A19-8E1E-8FA646702098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1285C57A-3A2F-4A19-8E1E-8FA646702098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EBA385F-6B14-4A8E-8703-142F3A398528}
+	EndGlobalSection
+EndGlobal

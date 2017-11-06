@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply Evens by Odds", "Multiply Evens by Odds\Multiply Evens by Odds.csproj", "{C5B620FD-8269-4877-BB5E-AA45FFE698CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B620FD-8269-4877-BB5E-AA45FFE698CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B620FD-8269-4877-BB5E-AA45FFE698CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B620FD-8269-4877-BB5E-AA45FFE698CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B620FD-8269-4877-BB5E-AA45FFE698CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {979EFDB0-F5C0-40D5-9094-BB213F6B84A8}
+	EndGlobalSection
+EndGlobal
