@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Strings_And_Objects
-{
-    class Program
+using System;
+class StringsAndObjects
     {
-        static void Main(string[] args)
+        static void Main()
         {
-        }
+        //Declare two string variables and assign them with “Hello” and “World”.
+        //Declare an object variable and assign it with the concatenation
+        //of the first two variables (mind adding an interval between).
+        string h = "Hello";
+        string w = "World";
+        object hw = ("Hello" + " " + "World");
+        string sentence = (string)hw;
+        Console.WriteLine(sentence);
     }
-}
+    }
